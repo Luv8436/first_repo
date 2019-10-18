@@ -1,0 +1,31 @@
+﻿body {
+background-color: skyblue;
+color: white;
+line-height: 1.4em;
+font-family:sans-serif;
+}
+h1 {
+color: green;
+font-size: 3.6em;}
+a:hover {
+background-color: #DFFFD6;
+font-size: 1.4em;
+font-family: arial,Helvetica;
+font-weight: bold;
+text-transform: uppercase;
+color: black;
+}
+a:visited{
+color:#858C7B;
+}
+a:active {
+background-color: light green;
+color: orange;}
+p {
+font-size: 2em;
+font-color: magenta;}
+a { 
+text-decoration: underline;}
+strong {
+	color: orange;
+	}
